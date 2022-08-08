@@ -1,1 +1,1 @@
-# atividades-frontend-softex
+# atividades curso de programação
